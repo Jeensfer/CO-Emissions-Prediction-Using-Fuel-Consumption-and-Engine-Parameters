@@ -22,12 +22,19 @@ To write a program that does the following using sklearn (Linear Regression) and
 
 ## ALGORITHM:
 1.Load the Fuel Consumption dataset using Pandas.
+
 2.Visualize the relationship between vehicle features (cylinders, engine size, fuel consumption) and CO₂ emissions using scatter plots.
+
 3.Select Cylinders as the input feature and CO₂ Emissions as the target variable.
+
 4.Split the dataset into training and testing sets using the train-test split method.
+
 5.Train a Linear Regression model using the training data.
+
 6.Predict CO₂ emissions on the test data and evaluate the model using the R² score.
+
 7.Repeat the training and evaluation process using Fuel Consumption (Combined) as the input feature.
+
 8.Analyze model performance by varying different train–test split ratios.
 
 ## PROGRAM:
