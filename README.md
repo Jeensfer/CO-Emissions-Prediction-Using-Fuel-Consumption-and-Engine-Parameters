@@ -127,7 +127,7 @@ for r in ratios:
 <img width="632" height="482" alt="Screenshot 2026-02-03 140859" src="https://github.com/user-attachments/assets/504965c0-059b-4707-b49e-53b4d8ee8e62" />
 <img width="629" height="478" alt="Screenshot 2026-02-03 140908" src="https://github.com/user-attachments/assets/4d7242a3-ebd0-4723-bcf0-2643ff8ef4e9" />
 
-##RESULT:
+## RESULT:
 The Fuel Consumption dataset was successfully analyzed using data visualization and Linear Regression.
 
 
