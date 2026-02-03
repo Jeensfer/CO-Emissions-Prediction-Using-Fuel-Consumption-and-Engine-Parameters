@@ -2,12 +2,19 @@
 
 ## AIM:
 To write a program that does the following using sklearn (Linear Regression) and matplotlib :
+
 1.Create a scatter plot between cylinder vs Co2Emission (green color)
+
 2.Using scatter plot compares data cylinder vs Co2Emission and Enginesize Vs Co2Emission using different colors
+
 3.Using scatter plot compares data cylinder vs Co2Emission and Enginesize Vs Co2Emission and FuelConsumption_comb Co2Emission using different colors
+
 4.Trains the model with independent variable as cylinder and dependent variable as Co2Emission
+
 5.Trains a new model with independent variable as FuelConsumption_comb and dependent variable as Co2Emission
+
 6.Train model on different train test ratio and train the models and note down their accuracies
+
 
 ## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
